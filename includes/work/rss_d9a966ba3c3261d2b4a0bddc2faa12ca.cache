@@ -1,0 +1,35 @@
+a:12:{s:8:"encoding";s:5:"UTF-8";s:5:"title";s:15:"osCommerce Apps";s:4:"link";s:26:"https://www.oscommerce.com";s:11:"description";s:35:"osCommerce Apps Marketplace listing";s:8:"language";s:2:"en";s:9:"copyright";s:29:"Copyright (c) 2018 osCommerce";s:14:"managingEditor";s:19:"hpdl@oscommerce.com";s:11:"image_title";s:10:"osCommerce";s:9:"image_url";s:69:"https://www.oscommerce.com/public/sites/Website/images/oscommerce.png";s:10:"image_link";s:26:"https://www.oscommerce.com";s:5:"items";a:5:{i:0;a:4:{s:5:"title";s:34:"HeaderScroll for osCv2.3.4 BS Edge";s:4:"link";s:33:"https://apps.oscommerce.com/eZbEr";s:11:"description";s:822:"Many websites have a huge header that takes up a significant portion of the above-the-fold prime page real estate. For conversions it is most prevalent that a customer does not have to scroll each page to view the meat of the product offering.<br />
+<br />
+This contribution spotlights the product offering by scrolling the product_info page to its value content on page load. And it gives the user full control to view the content as they want,.. with or without the HeaderScroll based on their selection and for the duration of their session.<br />
+<br />
+The customer's selection is saved to sessionStorage and applied to all product_info pages for the duration of their session.<br />
+<br />
+No database changes<br />
+3 new files<br />
+2 file code changes<br />
+Screenshots included<br />
+<br />
+This is a Full Package";s:7:"pubDate";s:31:"Wed, 26 Sep 2018 06:30:09 +0200";}i:1;a:4:{s:5:"title";s:29:"Very Simple Navbar links menu";s:4:"link";s:33:"https://apps.oscommerce.com/3fZc5";s:11:"description";s:312:"This lets you add some very basic links into a drop down menu in the navbar.<br />
+<br />
+It&rsquo;s a no core change add-on .<br />
+<br />
+Simply install and turn on like any other footer add-on.<br />
+<br />
+You can edit the template file to change the links.<br />
+<br />
+That&rsquo;s it as I said very basic.";s:7:"pubDate";s:31:"Thu, 20 Sep 2018 22:00:22 +0200";}i:2;a:4:{s:5:"title";s:21:"JcM Header Categories";s:4:"link";s:33:"https://apps.oscommerce.com/nytlE";s:11:"description";s:761:"Remove styling to user.css and bug fix for fas fa home.<br />
+<br />
+This is a simple header add-on that lets place categories at the top of your site.<br />
+It&rsquo;s nothing fancy it just makes use of the stock osC categories function.<br />
+It&rsquo;s best used for sites with a small number of cats. Also on mobile devices the cats are shown at the top of the device rather than at the bottom as is with stock CE.<br />
+<br />
+It&rsquo;s a no core change add-on. Simply install and turn on like any other add-on.<br />
+<br />
+It&rsquo;s got some css in the temp file to show on install but you can remove that or override it in your user.css. The options for styling are endless. <br />
+<br />
+That&rsquo;s it. <br />
+ <br />
+It has only been tested on CE.";s:7:"pubDate";s:31:"Wed, 12 Sep 2018 17:05:08 +0200";}i:3;a:4:{s:5:"title";s:25:"Header osC Banner rotator";s:4:"link";s:33:"https://apps.oscommerce.com/eI6qf";s:11:"description";s:632:"With right files! sorry<br />
+Bug fix to make slide change indicators work, sorry silly bug. Is full package. This is not my code, simply updated a 2015 code by vampirehunter So it will work with CE. This is a header carousel add-on that lets you make use of the stock osC banner function. It&rsquo;s a no core change add-on. Simply install and turn on like any other add-on. Then go to admin/tools and use banner manager to make a new banner. The groups must be set to &ldquo;Rotator&rdquo; This is a carousel so you need to make a number of banners each set to &ldquo;Rotator&rdquo; That&rsquo;s it. It has only been tested on CE.";s:7:"pubDate";s:31:"Tue, 11 Sep 2018 13:20:08 +0200";}i:4;a:4:{s:5:"title";s:30:"Simple header & footer Banners";s:4:"link";s:33:"https://apps.oscommerce.com/L9dD0";s:11:"description";s:397:"small bug fix in header template file.<br />
+<br />
+2 very simple add-ons that lets you make use of the stock osC banner function. No core change add-on footer and header Simply install and turn on like any other footer or header add-on. Then go to admin/tools and use banner manager to make a new banner. The groups must be set to &ldquo;footer&rdquo; and or &ldquo;header&rdquo; That&rsquo;s it.";s:7:"pubDate";s:31:"Tue, 11 Sep 2018 14:20:08 +0200";}}s:11:"items_count";i:5;}
